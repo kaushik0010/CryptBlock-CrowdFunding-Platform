@@ -13,7 +13,12 @@ The major problems with the Current Crowdfunding Platforms that we wanted to sol
 1. Install **Metamask** as Google Chrome Extension and Create an account.
 
 ## Screenshots
-
+### Home
+![home-screen](https://github.com/user-attachments/assets/aaffbd94-5de1-4eb0-9db3-a46d524d40a0)
+### Listed Campaigns
+![all-listed-campaigns](https://github.com/user-attachments/assets/8df273ce-4715-40ab-9804-d6d262453254)
+### Contribution
+![contribute-to-campaign](https://github.com/user-attachments/assets/ba99e697-a13a-4f43-be78-8bae06564866)
 
 ## Tech Stack 
 - Next JS
