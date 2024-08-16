@@ -1,4 +1,4 @@
-# Blockchain_CrowdFunding_Platform
+# CryptBlock - CrowdFunding Platform using Blockchain
 **⭐DO NOT FORGET TO STAR THIS REPO⭐**
 
 ## Problem Statement and Necessity 
